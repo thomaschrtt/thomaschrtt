@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Introduction
+Hi, I'm Thomas! ...
+## Projects
+## Skills
+- Languages: 
+  - Java
+  - Rust
+  - PHP
+  - TypeScript
+- Technologies: 
+  - Node
+  - Docker
+  - Gitlab
+  - Github
+## Contact Information
+- LinkedIn: https://www.linkedin.com/in/thomas-charotte-b99758264/
+- Email: thomas.chrtt@gmail.Com
